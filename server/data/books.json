@@ -1,0 +1,50 @@
+[
+  {
+    "id": "book-1",
+    "title": "Mom & Her Cat: 50 pages of a cozy and cute coloring book featuring heartwarming moments between Moms and their Beloved Cats.",
+    "shortTitle": "Mom & Her Cat",
+    "author": "Prabhu Williamson",
+    "coverImage": "/covers/mom-her-cat-front.png",
+    "backCoverImage": "/covers/mom-her-cat-back.png",
+    "shortDescription": "A cozy coloring book for cat lovers featuring heartwarming moments between moms and their beloved cats.",
+    "fullDescription": "Mom with Her Cat: A Cozy Coloring Book for Cat Lovers. Celebrate the special bond between a loving mom and her adorable cat with this charming and relaxing coloring book. Inside, you will discover a collection of sweet, cozy scenes featuring moms and their feline companions enjoying everyday moments together. From peaceful afternoons at home to playful adventures and cuddly moments, each page is designed to bring a little joy and relaxation to your coloring time. Inside this coloring book: Cute and heartwarming mom-and-cat illustrations, relaxing designs perfect for creative coloring, a variety of cozy scenes and adorable feline moments, great for cat lovers and anyone who enjoys coloring, a wonderful way to unwind, relax, and enjoy some screen-free creative time.",
+    "price": 564.42,
+    "affiliateUrl": "https://www.amazon.com/dp/B0HJ5F1V4D",
+    "category": "Coloring Book",
+    "pageCount": "50 pages",
+    "ageRange": "Ages 4-8",
+    "printType": "Single-sided prints"
+  },
+  {
+    "id": "book-2",
+    "title": "Vintage Dot to Dot: Classic Antique and Vintage things Connect the Dots Book for Adults",
+    "shortTitle": "Vintage Dot to Dot",
+    "author": "Prabhu Williamson",
+    "coverImage": "/covers/vintage-dot-to-dot-front.png",
+    "backCoverImage": "/covers/vintage-dot-to-dot-back.png",
+    "shortDescription": "Classic Antique and Vintage Dot to Dot Book for Adults with 35-70 dots.",
+    "fullDescription": "This book contains 51 unique classic antique and vintage things dot to dot pages, each design is included with reference picture and quotes.\n\n- Large size pages of 8.5x11\n- Single sided pages for Framing and Coloring\n- Challenging Activity Book for Adults\n- Puzzles from 35 to 70 dots!",
+    "price": 660.01,
+    "affiliateUrl": "https://www.amazon.com/dp/B0HM46P883",
+    "category": "Coloring Book",
+    "pageCount": "51 pages",
+    "ageRange": "Ages 12+",
+    "printType": "Single-sided prints"
+  },
+  {
+    "id": "book-3",
+    "title": "Halloween Activity Book For Kids: 100+ Crosswords, Word Searches, Mazes, Word Scrambles, Sudoku. for Friends and Family & More Screen-Free Fun (Halloween gift idea for Kids.)",
+    "shortTitle": "Halloween Activity Book",
+    "author": "Prabhu Williamson",
+    "coverImage": "/covers/hallowen_front.png",
+    "backCoverImage": "/covers/hallowen-back.png",
+    "shortDescription": "100+ frightfully fun puzzles, word searches, mazes, and more for kids ages 7-12.",
+    "fullDescription": "Keep Kids Thinking, Laughing, Creating, and Playing All Spooky Season Long With This Screen-Free Halloween Activity Book!\n\n100+ Frightfully Fun Puzzles, Challenges, Coloring Pages, and Games Made Just for Kids Ages 7-12!\nBring Even More Fun to Spooky Season! No Baskets, No Wi-Fi, and No Complicated Setup. Just Grab a Pencil, Open the Book, and Jump Into Crosswords, Word Searches, Mazes, and More.\nWith 100+ Activities, There Is Always Something Fun to Do. Kids Can Crack Tricky Logic Puzzles, Match Spooky Clues, or Take a Break With Creative Activities.\nPlay Solo or Bring Everyone Together! Special Games for Friends and Family Turn This Activity Book Into Halloween Entertainment Kids Can Share at Parties, Playdates, Family Nights, and Cozy October Evenings.\nA Fun Halloween Gift for Kids Ages 7-12. Tuck It Into a Halloween Gift Basket or Bring It Along to a Party or Family Gathering. It Is an Easy Way to Add More Laughs, Puzzles, Creativity, and Screen-Free Fun to October.",
+    "price": 754.30,
+    "affiliateUrl": "https://www.amazon.com/dp/B0HMJFS48P",
+    "category": "Activity Book",
+    "pageCount": "100+ puzzles",
+    "ageRange": "Ages 7-12",
+    "printType": "Screen-free fun"
+  }
+]
