@@ -1,0 +1,11 @@
+{
+  "name": "little-fox",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

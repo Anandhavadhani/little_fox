@@ -1,0 +1,13 @@
+[build]
+  command = "npm --prefix client ci && npm --prefix client run build"
+  publish = "client/dist"
+
+[build.environment]
+  # Use the same-origin API served by the Netlify Server in production builds
+  VITE_API_URL = "/api"
+
+# Single-page app: let React Router handle client-side routes like /book/:id
+[[redirects]]
+  from = "/book/*"
+  to = "/index.html"
+  status = 200
